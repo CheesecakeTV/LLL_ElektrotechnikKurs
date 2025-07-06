@@ -19,6 +19,7 @@ Antworten des Fragebogens besprechen
 ## 1. Grundlagen
 - Strom, Spannung und Widerstand
   - Ohmsches Gesetz
+  - Ideale Quellen
 - Spannungspotential
 - Kirchhoffsche Gesetze, besonders in Bezug aufs Potential
   - "Strom der in ein Bauteil fließt, fließt auch wieder raus"
