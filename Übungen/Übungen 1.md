@@ -11,6 +11,9 @@ Wie groß ist die Spannung über den Widerstand?
 4. Du baust eine Schaltung nach einem Schaltplan auf.
 Aus Gründen möchtest du das Bezugspotential (Ground) an einen anderen Knoten verschieben.
 Was musst du dazu an deiner gebauten Schaltung verändern?
+5. Gegeben ist folgende Schaltung:\
+![](../assets/images/2025-07-06-16-23-45.png)\
+Wie viel Strom fließt durch den markierten Widerstand?
 
 # 2. Spannungsteiler
 
@@ -22,5 +25,5 @@ Berechne den Strom durch beide Widerstände und das Potential in der Mitte.
 Was lässt sich über die Spannung im blauen Knoten aussagen?
    1. Beide Widerstandswerte werden verdoppelt. Passe deine Antwort entsprechend an.
 3. Durch welchen der Widerstände fließt mehr Strom?\
-![alt text](../assets/images/image-1.png)\
+![alt text](../assets/images/image-1.png)
     1. Über welchen der Widerstände fällt eine größere Spannung ab?
