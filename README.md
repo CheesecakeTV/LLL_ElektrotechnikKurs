@@ -1,6 +1,6 @@
 # LLL_ElektrotechnikKurs
 
-Elektrotechnik-Kurs für Anfänger.
+Elektrotechnik-Kurs für Anfänger, jeden Mittwoch um 20:00 Uhr auf LLL.
 
 
 ## Dieser Kurs richtet sich besonders an...
