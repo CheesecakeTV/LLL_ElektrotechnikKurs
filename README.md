@@ -54,7 +54,7 @@ Oft denkt man, man hätte etwas verstanden, und kann es trotzdem nicht anwenden.
 - Tu anderen Leuten den Gefallen und trau dich, dumme Fragen zu stellen.
 Lieber eine dumme Frage, als ein dummer Fehler.
 Niemand wird für eine Frage ausgelacht und alle gehen mit mehr Verständnis raus.
-- Im Bus, beim Einschlafen, oder wann du auch gerade Zeit hast, lass dir die Themen nochmal durch den Kopf gehen.
+- Im Bus, beim Einschlafen, oder wann du auch gerade Langeweile hast, lass dir die Themen nochmal durch den Kopf gehen.
 Denke dabei auch 1-2 Schritte weiter, als besprochen.
 Hast du Einfälle bei denen du dir nicht sicher bist, frag mich gerne per PN dazu.
 - Sei aktiv. Eine einzelne Einheit zu verpassen, besonders am Anfang eines neuen Themas, kann fatal sein.
