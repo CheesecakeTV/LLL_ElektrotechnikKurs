@@ -17,6 +17,7 @@ Antworten des Fragebogens besprechen
 - Kaum Schüler dabei
 
 ## 1. Grundlagen
+### Ohmsche Widerstandsnetze
 - Strom, Spannung und Widerstand
   - Ohmsches Gesetz
   - Ideale Quellen
@@ -27,3 +28,21 @@ Antworten des Fragebogens besprechen
 - Spannungsteiler
   - "Hoch- und Runterziehen" von Spannungen
   - "Teil / Gesammt = Teil / Gesammt"
+
+### Leistung, Energie
+- Unterschied zwischen Leistung und Energie
+
+### Wechselspannung
+- Kurze Wiederholung vom Sinus
+- Werte einer Sinus-Spannung
+- Effektivwert
+
+## 2. Kapazität, Induktivität
+### Kapazität
+- Was ist Kapazität?
+- Zusammenhang zwischen Strom und Spannung
+- Kapazität als Energiespeicher
+- Ladekurve
+
+
+
