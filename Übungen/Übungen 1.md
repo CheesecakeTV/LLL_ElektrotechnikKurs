@@ -1,16 +1,16 @@
 
 # 1. Kirchhoff und Ohm
 
-1. Ist das Potential an einem Knoten immer gleich?
+1. Ist das Potential an einem Knoten immer überall an diesem Knoten gleich?
 Wenn nein, in welchen Fällen nicht?
-2. Du legst an einem unendlich großen Widerstand eine Spannung an.
+2. Du legst an einen unendlich großen Widerstand eine Spannung an.
 Wie groß ist der Stromfluss durch den Widerstand?
-3. Du legst an einem unendlich großen Widerstand einen
+3. Du legst an einen unendlich großen Widerstand einen
 Strom an.
 Wie groß ist die Spannung über den Widerstand?
 4. Du baust eine Schaltung nach einem Schaltplan auf.
-Aus Gründen möchtest du das Bezugspotential (Ground) an einen anderen Knoten verschieben.
-Was musst du dazu an deiner gebauten Schaltung verändern?
+Aus Gründen möchtest du danach das Bezugspotential (Ground) an einen anderen Knoten verschieben.
+Was musst du dazu an deiner bereits gebauten Schaltung verändern?
 5. Gegeben ist folgende Schaltung:\
 ![](../assets/images/2025-07-06-16-23-45.png)\
 Wie viel Strom fließt durch den markierten Widerstand?

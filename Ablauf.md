@@ -21,7 +21,10 @@ Antworten des Fragebogens besprechen
 - Strom, Spannung und Widerstand
   - Ohmsches Gesetz
   - Ideale Quellen
+- Parallel- und Reihenschaltung (Zusammenfassen von Widerständen)
+  - Vereinfachte Formel: "mal durch plus"
 - Spannungspotential
+  - Reihenschaltung von Spannungsquellen/Stromquellen
 - Kirchhoffsche Gesetze, besonders in Bezug aufs Potential
   - "Strom der in ein Bauteil fließt, fließt auch wieder raus"
   - "Unabhängig vom Weg des Stroms, das Potential an jedem jeweiligen Knoten ist am gesamten Knoten gleich"
