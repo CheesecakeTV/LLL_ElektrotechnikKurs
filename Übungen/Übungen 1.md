@@ -3,7 +3,7 @@
 
 1. Ist das Potential an einem Knoten immer überall an diesem Knoten gleich?
 Wenn nein, in welchen Fällen nicht?
-2. Berechne den Gesamtwiderstand folgender Schaltung:
+2. Berechne den Gesamtwiderstand folgender Schaltung:\
 ![](../assets/images/2025-07-09-15-08-50.png)
 3. Du legst an einen unendlich großen Widerstand eine konstante Spannung an.
 Wie groß ist der Stromfluss durch den Widerstand?
