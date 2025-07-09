@@ -29,6 +29,7 @@ Antworten des Fragebogens besprechen
   - "Strom der in ein Bauteil fließt, fließt auch wieder raus"
   - "Unabhängig vom Weg des Stroms, das Potential an jedem jeweiligen Knoten ist am gesamten Knoten gleich"
 - Übung 1.1
+*Stand Einheit 1*
 - Spannungsteiler
   - "Hoch- und Runterziehen" von Spannungen
   - "Teil / Gesammt = Teil / Gesammt"
