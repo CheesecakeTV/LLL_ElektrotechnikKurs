@@ -41,6 +41,7 @@ Antworten des Fragebogens besprechen
 
 ### Wechselspannung
 - Kurze Wiederholung des Sinus
+  - Winkel-Einheit
 - Parameter einer Sinus-Spannung
 - Effektivwert
 

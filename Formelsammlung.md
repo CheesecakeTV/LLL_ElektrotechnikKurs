@@ -43,7 +43,8 @@
   - $1 kWh = 3'600'000 J$
 
 ## Wechselspannung
-- Allgemein: $u(t) = û*sin(2 \pi f t + \varphi)$
+- Allgemein: $u(t) = û*sin(\omega t + \varphi)$
+- Kreisfrequenz: $\omega = 2 \pi f$
 - Effektivwert: $U = \sqrt{\frac{1}{T} \int_{t_0}^{t_0 + T}u²(t)} dt$
   - Bei Gleichspannung: $U = u(t)$
   - Bei sinusförmiger Spannung: $U = \frac{û}{\sqrt{2}}$

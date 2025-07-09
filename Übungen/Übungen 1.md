@@ -24,8 +24,8 @@ Wie viel Strom fließt durch den markierten Widerstand?
 Berechne den Strom durch beide Widerstände und das Potential in der Mitte.
 2. Gegeben ist folgende Schaltung:\
 ![alt text](../assets/images/image.png)\
-Was lässt sich über die Spannung im blauen Knoten aussagen?
-   1. Beide Widerstandswerte werden verdoppelt. Passe deine Antwort entsprechend an.
+Was lässt sich über die Spannung im blauen Knoten aussagen? Was passiert, wenn der Schalter geschlossen wird?
+   1. Beide Widerstandswerte werden verdoppelt. Passe deine Antworten entsprechend an.
 3. Durch welchen der Widerstände fließt mehr Strom?\
 ![alt text](../assets/images/image-1.png)
     1. Über welchen der Widerstände fällt eine größere Spannung ab?
