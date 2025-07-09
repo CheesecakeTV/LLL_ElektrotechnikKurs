@@ -42,3 +42,11 @@ Falls du 2. nicht lösen kannst, nimm im Folgenden den Effektivwert $U = 3V$ an.
 5. Bestimme den Effektivwert dieses Signals:
 ![](../assets/images/2025-07-09-08-55-42.png)
 
+# 4. Leistung und Energie
+1. Ist es aus ingenieursmäßiger Sicht allgemein sinnvoll, von "Energieverbrauch" zu sprechen?
+2. Dein neuer Gaming-PC hat einen durchschnittlichen Leistungsverbrauch von $300W$. Da du ihn besonders toll findest, zockst du die ganze Nacht (8 Stunden) durch. Bestimme den Energieverbrauch in kWh.
+3. Eine Batterie wurde getestet: Sie lieferte für 8 Stunden einen Strom von 1A bei 3.3V, danach für 2 Stunden 0.5A bei 2.8V. Wie viel Energie enthielt die Batterie zu beginn?
+4. Bei Powerbanks wird als Einheit für die Energie mAh ("Milliamperestunden") angegeben. Die Ausgangsspannung wird (ohne Schnellladen) durch eine Schaltung bei 5V gehalten. Bestimme die Energiemenge in Joule, wenn die Powerbank $2200mAh$ angibt.
+    1. Erstelle eine (möglichst) einfache Formel, um mAh in J umzurechnen.
+
+
