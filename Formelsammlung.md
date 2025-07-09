@@ -40,6 +40,7 @@
 - Leistung: $P = U*I$, bzw. $p(t) = u(t) * i(t) = \frac{dE(t)}{dt}$, $[P] = W = Watt$
   - Leistung an Widerstand: $P = R*I² = \frac{U²}{R}$
 - Energie: $E = \int{p(t)}dt$, $[E] = J = Joule$
+  - $1 kWh = 3'600'000 J$
 
 ## Wechselspannung
 - Allgemein: $u(t) = û*sin(2 \pi f t + \varphi)$
