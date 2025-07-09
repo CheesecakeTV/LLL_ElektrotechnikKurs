@@ -36,8 +36,8 @@ Antworten des Fragebogens besprechen
 - Unterschied zwischen Leistung und Energie
 
 ### Wechselspannung
-- Kurze Wiederholung vom Sinus
-- Werte einer Sinus-Spannung
+- Kurze Wiederholung des Sinus
+- Parameter einer Sinus-Spannung
 - Effektivwert
 
 ## 2. Kapazität, Induktivität

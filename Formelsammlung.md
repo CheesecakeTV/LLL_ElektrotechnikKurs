@@ -26,4 +26,7 @@
   - Leistung an Widerstand: $P = R*I² = \frac{U²}{R}$
 - Energie: $E = \int{p(t)}dt$, $[E] = J = Joule$
 
+## Wechselspannung
+- Allgemein: $u(t) = û*sin(2 \pi f t + \varphi)$
+- Effektivwert: $U = \sqrt{\frac{1}{T} \int{t_0}{t_0 + T}{u²(t)}} dt$
 
