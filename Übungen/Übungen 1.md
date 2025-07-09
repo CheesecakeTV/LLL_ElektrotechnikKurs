@@ -26,12 +26,11 @@ Berechne den Strom durch beide Widerstände und das Potential in der Mitte.
 ![alt text](../assets/images/image.png)\
 Was lässt sich über die Spannung im blauen Knoten aussagen? Was passiert, wenn der Schalter geschlossen wird?
    1. Beide Widerstandswerte werden verdoppelt. Passe deine Antworten entsprechend an.
-3. Durch welchen der Widerstände fließt mehr Strom?\
+3. Durch welchen der Widerstände fließt mehr Strom? Über welchen der Widerstände fällt eine höhere Spannung ab?\
 ![alt text](../assets/images/image-1.png)
-    1. Über welchen der Widerstände fällt eine größere Spannung ab?
 
 # 3. Wechselspannung
-Gemessen wurde folgender Spannungsverlauf:
+Gemessen wurde folgender Spannungsverlauf:\
 ![](../assets/images/2025-07-09-08-31-56.png)
 
 1. Bestimme die üblichen Größen: Amplitude, Frequenz, Gleichspannungsanteil
@@ -41,7 +40,7 @@ Falls du 2. nicht lösen kannst, nimm im Folgenden den Effektivwert $U = 3V$ an.
 
 3. Die Spannung liegt an einem $10 \Omega$ Widerstand an. Bestimme die Leistung.
 4. Bestimme die Energie, die das gemessene Signal am Widerstand umgesetzt hat. Die x-Achse ist in Sekunden skaliert.
-5. Bestimme den Effektivwert dieses Signals:
+5. Bestimme den Effektivwert dieses Signals:\
 ![](../assets/images/2025-07-09-08-55-42.png)
 
 # 4. Leistung und Energie
