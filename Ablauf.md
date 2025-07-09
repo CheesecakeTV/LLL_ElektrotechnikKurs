@@ -18,7 +18,7 @@ Antworten des Fragebogens besprechen
 
 ## 1. Grundlagen
 ### Ohmsche Widerstandsnetze
-- Strom, Spannung und Widerstand
+- Strom, Spannung und Widerstand (Beispiel Druckluft)
   - Ohmsches Gesetz
   - Ideale Quellen
 - Parallel- und Reihenschaltung (Zusammenfassen von Widerständen)
@@ -28,12 +28,15 @@ Antworten des Fragebogens besprechen
 - Kirchhoffsche Gesetze, besonders in Bezug aufs Potential
   - "Strom der in ein Bauteil fließt, fließt auch wieder raus"
   - "Unabhängig vom Weg des Stroms, das Potential an jedem jeweiligen Knoten ist am gesamten Knoten gleich"
+- Übung 1.1
 - Spannungsteiler
   - "Hoch- und Runterziehen" von Spannungen
   - "Teil / Gesammt = Teil / Gesammt"
+- Übung 1.2
 
 ### Leistung, Energie
-- Unterschied zwischen Leistung und Energie
+- Unterschied/Zusammenhang von Leistung und Energie (Beispiel Wasserfluss)
+- 
 
 ### Wechselspannung
 - Kurze Wiederholung des Sinus
@@ -43,9 +46,21 @@ Antworten des Fragebogens besprechen
 ## 2. Kapazität, Induktivität
 ### Kapazität
 - Was ist Kapazität?
+  - Größe der Kapazität
+  - Physik dahinter (Auch Dielektrikum)
 - Zusammenhang zwischen Strom und Spannung
 - Kapazität als Energiespeicher
 - Ladekurve
+- Kapazität an Sinusspannung
+- Energie im Kondensator
 
+### Induktivität
+- Induktion
+- Selbstinduktion
+  - Das Magnetfeld durch anderen Leiter abbauen
+- Zusammenhang zwischen Strom und Spannung
+  - "Trägheit" des Stroms
+- Energie in einer Spule
 
+### Schwingkreise
 

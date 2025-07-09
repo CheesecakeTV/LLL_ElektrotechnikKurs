@@ -28,5 +28,25 @@
 
 ## Wechselspannung
 - Allgemein: $u(t) = û*sin(2 \pi f t + \varphi)$
-- Effektivwert: $U = \sqrt{\frac{1}{T} \int{t_0}{t_0 + T}{u²(t)}} dt$
+- Effektivwert: $U = \sqrt{\frac{1}{T} \int_{t_0}^{t_0 + T}u²(t)} dt$
+  - Bei Gleichspannung: $U = u(t)$
+  - Bei sinusförmiger Spannung: $U = \frac{û}{\sqrt{2}}$
+
+# Kapazität/Induktivität
+
+## Kapazität
+- Strom $i = C \frac{du}{dt}$
+- Spannung $u = \frac{1}{C} \int{i}dt$
+- Energie in Kapazität: $E = \frac{1}{2} CU^2$
+
+## Induktivität
+- Strom $i = \frac{1}{L} \int{udt}$
+- Spannung $u = L\frac{di}{dt} $
+
+
+
+
+
+
+
 
