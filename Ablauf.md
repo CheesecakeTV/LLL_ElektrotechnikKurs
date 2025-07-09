@@ -53,6 +53,7 @@ Antworten des Fragebogens besprechen
 - Ladekurve
 - Kapazität an Sinusspannung
 - Energie im Kondensator
+- Parasitäre Kapazitäten
 
 ### Induktivität
 - Induktion
@@ -61,6 +62,30 @@ Antworten des Fragebogens besprechen
 - Zusammenhang zwischen Strom und Spannung
   - "Trägheit" des Stroms
 - Energie in einer Spule
+- Parasitäre Induktivitäten
+- Prinzip eines Schwingkreises
 
-### Schwingkreise
+## 3. Komplexe Größen
+### Komplexe Zahlen
+#### Katesische Darstellung
+- Zahlenebene
+- Imaginäre Einheit j
+- Addition, Subtraktion
+- 1/j = -j
+- Betrag
+
+#### Polardarstellung
+- Betrag, Winkel
+  - Euler-Schreibweise
+  - Winkel-Schreibweise
+- Multiplikation, Division
+- Umrechnen in Katesische Darstellung
+
+### Komplexe Wechselstromrechnung
+- Spannung als komplexer Drehzeiger
+  - Frequenz weglassen, wenn alle Frequenzen gleich sind
+- Blindwiderstände
+- Impedanz
+- Scheinleistung, Blindleistung, Wirkleistung
+
 

@@ -55,6 +55,7 @@
   - Bei $C = 1F, i = 1A$ steigt die Spannung um $1V$ pro Sekunde.
 - Spannung: $u = \frac{1}{C} \int{i}dt$
 - Energie in Kapazität: $E = \frac{1}{2} CU^2$
+- Blindwiderstand $X_C = \frac{1}{j\omega C} = -j \frac{1}{\omega C}$
 
 ## Induktivität
 - Induktivität: $[L] = H = Henry$
@@ -62,6 +63,7 @@
 - Spannung: $u = L\frac{di}{dt} $
   - Bei $L = 1H, u = 1V$ steigt der Strom um $1A$ pro Sekunde.
 - Energie in Induktivität: $E = \frac{1}{2} LI^2$
+- Blindwiderstand $X_L = j\omega C$
 
 
 

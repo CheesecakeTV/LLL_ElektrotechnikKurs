@@ -3,15 +3,16 @@
 
 1. Ist das Potential an einem Knoten immer überall an diesem Knoten gleich?
 Wenn nein, in welchen Fällen nicht?
-2. Du legst an einen unendlich großen Widerstand eine konstante Spannung an.
+2. Berechne den Gesamtwiderstand folgender Schaltung: ![](../assets/images/2025-07-09-15-08-50.png)
+3. Du legst an einen unendlich großen Widerstand eine konstante Spannung an.
 Wie groß ist der Stromfluss durch den Widerstand?
-3. Du legst an einen unendlich großen Widerstand einen konstanten
+4. Du legst an einen unendlich großen Widerstand einen konstanten
 Strom an.
 Wie groß ist die Spannung über den Widerstand?
-4. Du baust eine Schaltung nach einem Schaltplan auf, also richtig mit Lötkolben und Kabeln.
+5. Du baust eine Schaltung nach einem Schaltplan auf, also richtig mit Lötkolben und Kabeln.
 Aus Gründen möchtest du danach das Bezugspotential (Ground) an einen anderen Knoten verschieben.
 Was musst du dazu an deiner bereits gebauten Schaltung verändern?
-5. Gegeben ist folgende Schaltung:\
+6. Gegeben ist folgende Schaltung:\
 ![](../assets/images/2025-07-06-16-23-45.png)\
 Wie viel Strom fließt durch den markierten Widerstand?
 
