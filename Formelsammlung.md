@@ -1,7 +1,22 @@
 
 # Allgemein
+## Integrale, Ableitungen
 - Ist $a(t)$ konstant, gilt $\int{a(t)}dt = a*t$
 - Ist die Änderung von $a(t)$ konstant, gilt $\frac{da(t)}{dt} = \frac{a(t_2) - a(t_1)}{t_2 - t_1}$ für beliebige Zeitpunkte $t_1 \neq t_2$
+  - (Praxisrelevanter) Ist zusätzlich $a(t_1) = 0$, gilt $\frac{da(t)}{dt} = \frac{a(t)}{t}$
+
+## Einheitenpräfixe
+|Präfix|Gesprochen|Faktor|
+|--|--|--|
+|T|Terra|$10^{12}$|
+|G|Giga|$10^9$|
+|M|Mega|$10^6$|
+|k|kilo|$10^3$|
+|-|-|$10^0=1$|
+|m|milli|$10^{-3}$|
+|$\mu$ (u)|mikro|$10^{-6}$|
+|n|nano|$10^{-9}$|
+|p|pico|$10^{-12}$|
 
 # Grundlagen
 ## Widerstandsnetze
@@ -35,13 +50,18 @@
 # Kapazität/Induktivität
 
 ## Kapazität
-- Strom $i = C \frac{du}{dt}$
-- Spannung $u = \frac{1}{C} \int{i}dt$
+- Kapazität: $[C] = F = Farad$, 
+- Strom: $i = C \frac{du}{dt}$
+  - Bei $C = 1F, i = 1A$ steigt die Spannung um $1V$ pro Sekunde.
+- Spannung: $u = \frac{1}{C} \int{i}dt$
 - Energie in Kapazität: $E = \frac{1}{2} CU^2$
 
 ## Induktivität
-- Strom $i = \frac{1}{L} \int{udt}$
-- Spannung $u = L\frac{di}{dt} $
+- Induktivität: $[L] = H = Henry$
+- Strom: $i = \frac{1}{L} \int{udt}$
+- Spannung: $u = L\frac{di}{dt} $
+  - Bei $L = 1H, u = 1V$ steigt der Strom um $1A$ pro Sekunde.
+- Energie in Induktivität: $E = \frac{1}{2} LI^2$
 
 
 
