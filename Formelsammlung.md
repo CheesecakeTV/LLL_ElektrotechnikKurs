@@ -59,6 +59,17 @@
 - Energie in Kapazität: $E = \frac{1}{2} CU^2$
 - Blindwiderstand $X_C = \frac{1}{j\omega C} = -j \frac{1}{\omega C}$
 
+### Lade-/Entladekurve
+$\tau = R*C$
+
+|Dauer|Lade/Entladestand|
+|---|---|
+|$1 \tau$|63 %|
+|$2 \tau$|86 %|
+|$3 \tau$|95 %|
+|$4 \tau$|98 %|
+|$5 \tau$|99 %|
+
 ## Induktivität
 - Induktivität: $[L] = H = Henry$
 - Strom: $i = \frac{1}{L} \int{udt}$

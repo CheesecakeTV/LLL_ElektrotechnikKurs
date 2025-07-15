@@ -9,7 +9,7 @@ Der Kondensator ist zu Beginn entladen. 10 Sekunden nachdem der Schalter geschlo
 Durch den Kondensator fließt ein Sinusförmiger Strom mit einer Amplitude von 1mA.
 
 ## 2. Induktivität
-1. Gegeben ist folgende Schaltung:\
+1. (Knobelaufgabe) Gegeben ist folgende Schaltung:\
 ![](../assets/images/2025-07-10-17-48-42.png)
 Wird der Umschalter betätigt, entläd sich der Kondensator zunächst vollständig in die Induktivität.
-Bestimme den maximalen Strom, der durch die Induktivität fließt.
+Bestimme den maximalen Wert des Stroms durch die Induktivität.

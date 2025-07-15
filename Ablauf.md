@@ -37,13 +37,16 @@ Antworten des Fragebogens besprechen
 
 ### Leistung, Energie
 - Unterschied/Zusammenhang von Leistung und Energie (Beispiel Wasserfluss)
-- 
+- "Grafisch integrieren/ableiten"
+- Elektrische Energie
+- Übung 1.4
 
 ### Wechselspannung
 - Kurze Wiederholung des Sinus
   - Winkel-Einheit
 - Parameter einer Sinus-Spannung
 - Effektivwert
+- Übung 1.3
 
 ## 2. Kapazität, Induktivität
 ### Kapazität
