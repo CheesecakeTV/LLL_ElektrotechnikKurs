@@ -46,7 +46,7 @@ Falls du 2. nicht lösen kannst, nimm im Folgenden den Effektivwert $U = 3V$ an.
 ![](../assets/images/2025-07-09-08-55-42.png)
 
 # 4. Leistung und Energie
-1. Ist es aus Intenieurstechnischer Sicht sinnvoll, den Begriff "Energieverbrauch" zu nutzen?
+1. Ist es aus Ingenieurstechnischer Sicht sinnvoll, den Begriff "Energieverbrauch" zu nutzen?
 2. Ein Gaming-PC hat einen durchschnittlichen Leistungsverbrauch von $300W$. Bestimme den jährlichen Energieverbraucht in kWh, wenn der PC 4 Stunden täglich genutzt wird.
 3. Eine Batterie wurde getestet: Sie lieferte für 8 Stunden einen Strom von 1A bei 3.3V, danach für 2 Stunden 0.5A bei 2.8V. Wie viel Energie enthielt die Batterie zu beginn?
 4. Bei Powerbanks wird als Einheit für die Energie mAh ("Milliamperestunden") angegeben. Die Ausgangsspannung wird (ohne Schnellladen) durch eine Schaltung bei 5V gehalten. Bestimme die Energiemenge in Joule, wenn die Powerbank $2200mAh$ angibt.
