@@ -60,6 +60,8 @@ Antworten des Fragebogens besprechen
 - Kapazität an Sinusspannung
 - Energie im Kondensator
 - Parasitäre Kapazitäten
+- Arten von Kondensatoren
+  - Auf LCSC anschauen
 
 ### Induktivität
 - Induktion

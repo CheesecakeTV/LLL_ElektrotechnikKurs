@@ -10,10 +10,13 @@ Der Kondensator ist zu Beginn entladen. 10 Sekunden nachdem der Schalter geschlo
 Durch den Kondensator fließt ein Sinusförmiger Strom mit einer Amplitude von 1mA.
 
 ## 2. Induktivität
-1. Überlege dir eine Möglichkeit, die (große, mindestens 1H) Induktivität einer Spule zu bestimmen. **Dabei hast du allerdings nur folgende Bauteile/Geräte:** Eine Batterie, verschiedene Widerstände, ein paar Schalter (keine Umschalter) und ein Oszilloskop (Zum Messen von Spannungsverläufen).\
+1. Überlege dir eine Möglichkeit, die (große, mindestens 1H) Induktivität einer Spule ungefähr zu bestimmen. **Dabei hast du allerdings nur folgende Bauteile/Geräte zur Verfügung:** Eine Batterie, verschiedene Widerstände, ein paar Schalter (keine Umschalter) und ein Oszilloskop (Zum Messen von Spannungsverläufen).\
 **Du kannst keine Ströme messen!**
    1. (Knobelaufgabe) Messungen kleiner Spannungen sind deutlich ungenauer als die großer Spannungen. Falls du in deiner Methode eine kleine Spannung misst, überlege dir eine Verbesserung, um die Genauigkeit zu erhöhen.
-2. (Knobelaufgabe) Gegeben ist folgende Schaltung:\
+2. An eine zu beginn "entladene" Induktivität wird folgender Spannungsverlauf angelegt:\
+![](../assets/images/2025-07-21-18-57-40.png)\
+Skizziere den Verlauf des Stroms. Die genaue Amplitude des Stroms ist dabei egal.
+3. (Knobelaufgabe) Gegeben ist folgende Schaltung:\
 ![](../assets/images/2025-07-10-17-48-42.png)\
 Wird der Umschalter betätigt, entläd sich der Kondensator zunächst vollständig in die Induktivität.
 Bestimme den maximalen Wert des Stroms durch die Induktivität.\
