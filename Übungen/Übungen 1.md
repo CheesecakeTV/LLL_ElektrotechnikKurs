@@ -46,7 +46,7 @@ Gemessen wurde folgender Spannungsverlauf:\
 Falls du 2. nicht lösen kannst, nimm im Folgenden den Effektivwert $U = 3V$ an.
 
 6. Die Spannung liegt an einem $10 \Omega$ Widerstand an. Bestimme die durchschnittliche Leistung.
-7. Bestimme die Energie, die das gemessene Signal am Widerstand umgesetzt hat. Die x-Achse ist in Sekunden skaliert.
+7. Bestimme die Energie, die das gemessene Signal am Widerstand umgesetzt hat. Die x-Achse ist in Sekunden skaliert (beschriftet).
 8. Bestimme den Effektivwert dieses Signals:\
 ![](../assets/images/2025-07-09-08-55-42.png)
 
