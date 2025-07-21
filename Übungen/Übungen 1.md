@@ -32,17 +32,22 @@ Was lässt sich über die Spannung im blauen Knoten aussagen? Was passiert, wenn
 ![](../assets/images/2025-07-15-19-04-55.png)
 
 # 3. Wechselspannung
+1. Übliche Haussteckdosen in Deutschland haben eine Effektive Spannung von 230 V bei einer Frequenz von 50 Hz. Der maximale Strom beträgt laut Angabe üblicherweise 16 A. Berechne den Spitzenwert der Spannung.
+2. Welche effektive Leistung kann eine einzelne Haussteckdose liefern?
+3. Es wird ein $100 \Omega$ - Widerstand an die Steckdose angeschlossen. Bestimme den Spitzenwert des fließenden Stroms.
+
+(Now for something completely different)
 Gemessen wurde folgender Spannungsverlauf:\
 ![](../assets/images/2025-07-09-08-31-56.png)
 
-1. Bestimme die üblichen Größen: Amplitude, Frequenz, Gleichspannungsanteil
-2. Bestimme den Effektivwert
+4. Bestimme die üblichen Größen: Amplitude, Frequenz, Gleichspannungsanteil
+5. Bestimme den Effektivwert
 
 Falls du 2. nicht lösen kannst, nimm im Folgenden den Effektivwert $U = 3V$ an.
 
-3. Die Spannung liegt an einem $10 \Omega$ Widerstand an. Bestimme die durchschnittliche Leistung.
-4. Bestimme die Energie, die das gemessene Signal am Widerstand umgesetzt hat. Die x-Achse ist in Sekunden skaliert.
-5. Bestimme den Effektivwert dieses Signals:\
+6. Die Spannung liegt an einem $10 \Omega$ Widerstand an. Bestimme die durchschnittliche Leistung.
+7. Bestimme die Energie, die das gemessene Signal am Widerstand umgesetzt hat. Die x-Achse ist in Sekunden skaliert.
+8. Bestimme den Effektivwert dieses Signals:\
 ![](../assets/images/2025-07-09-08-55-42.png)
 
 # 4. Leistung und Energie

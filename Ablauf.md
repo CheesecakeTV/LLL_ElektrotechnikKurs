@@ -64,9 +64,11 @@ Antworten des Fragebogens besprechen
 ### Induktivität
 - Induktion
 - Selbstinduktion
-  - Das Magnetfeld durch anderen Leiter abbauen
+  - Das Magnetfeld durch anderen Leiter abbauen (Trafo)
 - Zusammenhang zwischen Strom und Spannung
   - "Trägheit" des Stroms
+    - Induktivitäten ausschalten
+    - Snubber-Kapazitäten
 - Energie in einer Spule
 - Parasitäre Induktivitäten
 - Prinzip eines Schwingkreises
@@ -87,10 +89,11 @@ Antworten des Fragebogens besprechen
 - Multiplikation, Division
 - Umrechnen in Katesische Darstellung
 
-### Komplexe Wechselstromrechnung
-- Spannung als komplexer Drehzeiger
+## 4. Komplexe Wechselstromrechnung und passive Filter
+- Motivation: Fourier-Trafo anreißen
+- Komplexe Drehzeiger
   - Frequenz weglassen, wenn alle Frequenzen gleich sind
-- Blindwiderstände
+- Blindwiderstand
 - Impedanz
 - Scheinleistung, Blindleistung, Wirkleistung
 
