@@ -5,6 +5,38 @@
 - Ist die Änderung von $a(t)$ konstant, gilt $\frac{da(t)}{dt} = \frac{a(t_2) - a(t_1)}{t_2 - t_1}$ für beliebige Zeitpunkte $t_1 \neq t_2$
   - (Praxisrelevanter) Ist zusätzlich $a(t_1) = 0$, gilt $\frac{da(t)}{dt} = \frac{a(t)}{t}$
 
+## Komplexe Zahlen
+
+### Katesisch
+$z = x + jy$
+- $x = Re\{z\}, y = Im\{z\}$
+- Imaginäre Einheit $j² = -1$
+  - $\frac{1}{j} = -j$
+- Konjugiert $\overline{z}=z^*=x-jy$
+  - $\overline{z}$ ist das "konjugiert-Komplexe" von $z$.
+- Betrag $|z|=\sqrt{x²+y²}=\sqrt{z \overline{z}}$
+- Teilen durch eine komplexe Zahl: Mit konjugiertem Nenner erweitern, dann wird der Nenner reell
+
+### Polar
+$z = r e^{j \varphi}, w = R e ^{j \psi}$
+- $r = |z|, R = |w|$
+- $\varphi = arg\{z\}, \psi = arg\{w\}$
+
+- Multiplizieren: $zw = rR e^{j (\varphi + \psi)}$
+  - "Betrag multiplizieren, Winkel addieren"
+- Dividieren: $\frac{z}{w} = \frac{r}{R} e^{j (\varphi - \psi)}$
+  - "Betrag dividieren, Winkel subtrahieren"
+
+### Umwandlung
+- $arg\{z\} = \begin{cases}
+  \pi, y = 0 \text{ und } x < 0\\
+  2 * arctan \frac{y}{|z| + x}, sonst
+\end{cases} = arctan2(x,y)$
+  - In der Praxis ist diese Umwandlung nicht nötig. Falls doch, einfach mit normaler Trigonometrie arbeiten
+
+- $x = r*cos(\varphi)$
+- $y = r*sin(\varphi)$
+
 ## Einheitenpräfixe
 |Präfix|Gesprochen|Faktor|
 |--|--|--|
@@ -45,6 +77,7 @@
 ## Wechselspannung
 - Allgemein: $u(t) = û*sin(\omega t + \varphi)$
 - Kreisfrequenz: $\omega = 2 \pi f$
+  - Frequenz $[f] = Hz = Hertz = \frac{1}{s}$
 - Effektivwert: $U = \sqrt{\frac{1}{T} \int_{t_0}^{t_0 + T}u²(t)} dt$
   - Bei Gleichspannung: $U = u(t)$
   - Bei sinusförmiger Spannung: $U = \frac{û}{\sqrt{2}}$
@@ -52,12 +85,12 @@
 # Kapazität/Induktivität
 
 ## Kapazität
-- Kapazität: $[C] = F = Farad$, 
+- Kapazität: $[C] = F = Farad$
 - Strom: $i = C \frac{du}{dt}$
-  - Bei $C = 1F, i = 1A$ steigt die Spannung um $1V$ pro Sekunde.
+  - Bei $C = 1F$ und $i = 1A$ steigt die Spannung um $1V$ pro Sekunde.
 - Spannung: $u = \frac{1}{C} \int{i}dt$
 - Energie in Kapazität: $E = \frac{1}{2} CU^2$
-- Blindwiderstand $X_C = \frac{1}{j\omega C} = -j \frac{1}{\omega C}$
+- Blindwiderstand $X_C = \frac{1}{j\omega C} = -j \frac{1}{\omega C} = \frac{1}{sC}$
 
 ### Lade-/Entladekurve
 $\tau = R*C$
@@ -74,9 +107,9 @@ $\tau = R*C$
 - Induktivität: $[L] = H = Henry$
 - Strom: $i = \frac{1}{L} \int{udt}$
 - Spannung: $u = L\frac{di}{dt} $
-  - Bei $L = 1H, u = 1V$ steigt der Strom um $1A$ pro Sekunde.
+  - Bei $L = 1H$ und $u = 1V$ steigt der Strom um $1A$ pro Sekunde.
 - Energie in Induktivität: $E = \frac{1}{2} LI^2$
-- Blindwiderstand $X_L = j\omega C$
+- Blindwiderstand $X_L = j\omega L = sL$
 
 
 
