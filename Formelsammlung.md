@@ -75,7 +75,7 @@ $z = r e^{j \varphi}, w = R e ^{j \psi}$
   - $1 kWh = 3'600'000 J$
 
 ## Wechselspannung
-- Allgemein: $u(t) = û*sin(\omega t + \varphi)$
+- Allgemein: $u(t) = û*sin(\omega t + \varphi) + DC$
 - Kreisfrequenz: $\omega = 2 \pi f$
   - Frequenz $[f] = Hz = Hertz = \frac{1}{s}$
 - Effektivwert: $U = \sqrt{\frac{1}{T} \int_{t_0}^{t_0 + T}u²(t)} dt$
