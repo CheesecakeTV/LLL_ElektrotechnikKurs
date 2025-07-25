@@ -90,7 +90,10 @@ $z = r e^{j \varphi}, w = R e ^{j \psi}$
   - Bei $C = 1F$ und $i = 1A$ steigt die Spannung um $1V$ pro Sekunde.
 - Spannung: $u = \frac{1}{C} \int{i}dt$
 - Energie in Kapazität: $E = \frac{1}{2} CU^2$
-- Blindwiderstand $X_C = \frac{1}{j\omega C} = -j \frac{1}{\omega C} = \frac{1}{sC}$
+- Blindwiderstand $X_C = - \frac{1}{\omega C}$
+- Reihenschaltung: $\frac{1}{C_{ges}} = \frac{1}{C_1} + \frac{1}{C_2} + ...$
+  - Es gelten die gleichen Umformungen wie bei der parallelschaltung von Widerständen
+- Parallelschaltung: $C_{ges} = C_1 + C_2 + ...$
 
 ### Lade-/Entladekurve
 $\tau = R*C$
@@ -109,9 +112,21 @@ $\tau = R*C$
 - Spannung: $u = L\frac{di}{dt} $
   - Bei $L = 1H$ und $u = 1V$ steigt der Strom um $1A$ pro Sekunde.
 - Energie in Induktivität: $E = \frac{1}{2} LI^2$
-- Blindwiderstand $X_L = j\omega L = sL$
+- Blindwiderstand $X_L = \omega L$
+- Reihenschaltung: $L_{ges} = L_1 + L_2 + ...$
+- Parallelschaltung: $\frac{1}{L_{ges}} = \frac{1}{L_1} + \frac{1}{L_2} + ...$
+  - Es gelten die gleichen Umformungen wie bei der parallelschaltung von Widerständen
 
-
+# Komplexe Wechselstromrechnung
+- Ohmsches Gesetz: $U = R * Z$
+- Scheinleistung $S = P + jQ = U * I^* = Z*I^2 = \frac{U²}{Z^*}$
+  - $[S] = VA (=Watt)$
+  - Wirkleistung $[P] = W = Watt$
+  - Blindleistung $[Q] = VAr (= Watt)$
+  - Leistungsfaktor $cos(\varphi) = cos(arg\{S\}) = \frac{P}{S}$
+    - (Wird im Handwerk gerne verwendet)
+- Impedanz $Z = R + jX$
+  - $[Z] = [X] = [R] = \Omega$
 
 
 

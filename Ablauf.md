@@ -61,7 +61,11 @@ Antworten des Fragebogens besprechen
 - Energie im Kondensator
 - Parasitäre Kapazitäten
 - Arten von Kondensatoren
-  - Auf LCSC anschauen
+  - Auf LCSC anschauen\
+*Stand Einheit 3*
+- Ladekurve (Tabelle)
+- Reihen-/Parallelschaltung
+- Übung 2.1
 
 ### Induktivität
 - Induktion
@@ -74,6 +78,8 @@ Antworten des Fragebogens besprechen
 - Energie in einer Spule
 - Parasitäre Induktivitäten
 - Prinzip eines Schwingkreises
+- Reihen-/Parallelschaltung
+- Übung 2.2
 
 ## 3. Komplexe Größen
 ### Komplexe Zahlen
@@ -92,11 +98,14 @@ Antworten des Fragebogens besprechen
 - Umrechnen in Katesische Darstellung
 
 ## 4. Komplexe Wechselstromrechnung und passive Filter
-- Motivation: Fourier-Trafo anreißen
+### Impedanznetze
 - Komplexe Drehzeiger
   - Frequenz weglassen, wenn alle Frequenzen gleich sind
 - Blindwiderstand
 - Impedanz
 - Scheinleistung, Blindleistung, Wirkleistung
+  - Leistungsfaktor
+- Übung 4.1
 
+### Filter
 

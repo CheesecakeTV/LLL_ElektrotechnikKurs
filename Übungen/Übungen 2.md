@@ -1,6 +1,6 @@
 
 ## 1. Kapazität
-In dieser Übung werden die Kapazität verschiedener Kondensatoren auf unterschiedliche Weise bestimmt. Jeder Übungsteil bezieht sich auf einen anderen Kondensator.
+In dieser Übung wird die Kapazität verschiedener Kondensatoren auf unterschiedliche Weise bestimmt. Jeder Übungsteil bezieht sich auf einen anderen Kondensator.
 1. Folgende Schaltung wird verwendet:\
 ![](../assets/images/2025-07-10-17-36-09.png)\
 Der Kondensator ist zu Beginn entladen. 10 Sekunden nachdem der Schalter geschlossen wurde, erreicht der blaue Knoten ein Potential von $9,5V$.
