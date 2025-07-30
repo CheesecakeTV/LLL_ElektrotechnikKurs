@@ -15,3 +15,5 @@ Tipp: Du muss bei einigen Teilen polare und kartesische Darstellung vermischen.
 4. $r(e^{j\varphi} + \frac{1}{e^{j \varphi}})$
 5. $re^{j(\varphi + \pi)}$
 6. $jz$
+7. $z^n, n \in \N$
+8. $e ^ z$

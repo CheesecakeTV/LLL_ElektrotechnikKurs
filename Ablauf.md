@@ -58,19 +58,20 @@ Antworten des Fragebogens besprechen
 - Kapazität als Energiespeicher
 - Ladekurve
 - Kapazität an Sinusspannung
-- Energie im Kondensator
 - Parasitäre Kapazitäten
 - Arten von Kondensatoren
   - Auf LCSC anschauen\
 *Stand Einheit 3*
 - Ladekurve (Tabelle)
 - Reihen-/Parallelschaltung
+- Energie im Kondensator
 - Übung 2.1
 
 ### Induktivität
 - Induktion
 - Selbstinduktion
   - Das Magnetfeld durch anderen Leiter abbauen (Trafo)
+  - Sättigung
 - Zusammenhang zwischen Strom und Spannung
   - "Trägheit" des Stroms
     - Induktivitäten ausschalten
