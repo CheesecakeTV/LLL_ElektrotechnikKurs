@@ -79,10 +79,11 @@ Antworten des Fragebogens besprechen
 - Energie in einer Spule
 - Parasitäre Induktivitäten
 - Prinzip eines Schwingkreises
-- Reihen-/Parallelschaltung
+- Reihen-/Parallelschaltung\
+*Stand Einheit 4*
 - Übung 2.2
 
-## 3. Komplexe Größen
+## 3. Komplexe Größen (Vorerst übersprungen)
 ### Komplexe Zahlen
 #### Katesische Darstellung
 - Zahlenebene
@@ -98,7 +99,7 @@ Antworten des Fragebogens besprechen
 - Multiplikation, Division
 - Umrechnen in Katesische Darstellung
 
-## 4. Komplexe Wechselstromrechnung und passive Filter
+## 4. Komplexe Wechselstromrechnung und passive Filter (Vorerst übersprungen)
 ### Impedanznetze
 - Komplexe Drehzeiger
   - Frequenz weglassen, wenn alle Frequenzen gleich sind
@@ -109,4 +110,73 @@ Antworten des Fragebogens besprechen
 - Übung 4.1
 
 ### Filter
+
+
+## 5. Halbleiter
+- Allgemeine Anforderungen an Schalter (Strom, Spannung, R_on, Geschwindigkeit)
+- Strom-/Spannungsverlauf an Schaltern
+  - "Halbleitender Zustand" (Verluste)
+
+### Dioden
+- Elektrische Funktion von Dioden
+- Strom-Spannung-Kennlinie
+  - "Konstante" Vorwärtsspannung
+  - Verluste in Dioden
+- Parallelschalten von Dioden
+- Andere Diodenarten
+  - Shottky-Dioden
+  - LEDs
+    - Hochleistungs-LEDs
+  - Zener-/Lawinendioden
+  - PIN-Dioden
+  - Diacs
+
+### Transistoren
+#### MOSFET
+- Grundlegende Funktion
+  - N-Kanal, P-Kanal
+- Rückwärts-Diode
+- Transistor-Kennlinie
+- Parasitäre Kapazitäten
+  - Miller-Effekt
+  - Überschwingen am Gate
+  - Gate-Treiber
+
+#### BJT
+- Ersatzschaltung (zwei Dioden)
+- Transistor-Kennlinie
+  - Verstärkungsfaktor h
+
+## 6. Grundlegende Halbleiterschaltungen
+- Gleichrichter
+- Darlington-Transistor
+  - Sziklav-Paar (Rechtschreibung könnte abweichen)
+- Stromspiegel
+- Linearer Spannungswandler
+- Flip-Flop Schaltung
+
+## 7. Operationsverstärker
+- Grundlegende Funktion
+  - Realer Operationsverstärker
+- Mittkopplung, Rückkopplung
+- Virtuelle Masse
+  - Offset-Spannung
+  - Berechnung rückgekoppelter Schaltungen
+
+### OpV-Schaltungen
+Ohne Gegenkopplung
+- Schmitt-Trigger
+- ST-Oszillator
+  - PWM-Oszillator
+- Monostabiler Multivibrator
+
+Mit Gegenkopplung
+- Spannungsfolger
+- Addierer
+- Subtrahierer
+- Integrierer
+- Differenzierer
+- Präzisions-Halbwellen-Gleichrichter
+
+
 
