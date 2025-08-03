@@ -116,6 +116,7 @@ Antworten des Fragebogens besprechen
 - Allgemeine Anforderungen an Schalter (Strom, Spannung, R_on, Geschwindigkeit)
 - Strom-/Spannungsverlauf an Schaltern
   - "Halbleitender Zustand" (Verluste)
+- Motivation: Relais
 
 ### Dioden
 - Elektrische Funktion von Dioden
@@ -130,6 +131,7 @@ Antworten des Fragebogens besprechen
   - Zener-/Lawinendioden
   - PIN-Dioden
   - Diacs
+- Übung 5.1
 
 ### Transistoren
 #### MOSFET
@@ -147,13 +149,27 @@ Antworten des Fragebogens besprechen
 - Transistor-Kennlinie
   - Verstärkungsfaktor h
 
+#### Thyristoren
+- Ersatzschaltung (FlipFlop)
+- Funktionsweise
+- Triacs
+  - Nutzung in Phasenanschnittssteuerung
+
+#### IGBT
+- Ersatzschaltung
+- Transistor-Kennlinie
+- Fehlende Rückwärts-Diode
+
 ## 6. Grundlegende Halbleiterschaltungen
 - Gleichrichter
+- Invertierer
 - Darlington-Transistor
   - Sziklav-Paar (Rechtschreibung könnte abweichen)
 - Stromspiegel
 - Linearer Spannungswandler
 - Flip-Flop Schaltung
+- Klasse-A-Verstärker
+- Klasse-B-Verstärker
 
 ## 7. Operationsverstärker
 - Grundlegende Funktion

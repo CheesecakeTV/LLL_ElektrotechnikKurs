@@ -16,7 +16,13 @@ Durch den Kondensator fließt ein sinusförmiger Strom mit einer Amplitude von 1
 2. An eine zu beginn "entladene" Induktivität wird folgender Spannungsverlauf angelegt:\
 ![](../assets/images/2025-07-21-18-57-40.png)\
 Skizziere den Verlauf des Stroms qualitativ.
-3. (Knobelaufgabe) Gegeben ist folgende Schaltung:\
+3. Gegeben ist folgende Schaltung:\
+![](../assets/images/2025-08-03-12-44-02.png)\
+Der Umschalter wird betätigt, sobald durch die Induktivität ein Strom von $1A$ fließt. Wie groß ist die Spannung über den Widerstand direkt nach dem umschalten?
+   1. Skizziere den Verlauf des Potentials am blau markierten Knoten. Tipp: Beachte, in welche Richtung der Strom durch den Widerstand fließt.
+   2. Ziel ist, die Induktivität durch den Widerstand möglichst schnell zu entladen. Was sind dabei Vor-/Nachteile eines größeren Widerstands?
+   3. Was würde passieren, wenn der Widerstand komplett weggelassen wird?
+4. (Knobelaufgabe) Gegeben ist folgende Schaltung:\
 ![](../assets/images/2025-07-10-17-48-42.png)\
 Wird der Umschalter betätigt, entläd sich der Kondensator zunächst vollständig in die Induktivität.
 Bestimme den maximalen Wert des Stroms durch die Induktivität.\
