@@ -124,6 +124,7 @@ Antworten des Fragebogens besprechen
   - "Konstante" Vorwärtsspannung
   - Verluste in Dioden
 - Parallelschalten von Dioden
+- *Einheit 5*
 - Andere Diodenarten
   - Shottky-Dioden
   - LEDs
@@ -137,6 +138,8 @@ Antworten des Fragebogens besprechen
 #### MOSFET
 - Grundlegende Funktion
   - N-Kanal, P-Kanal
+- N-Kanal vor die Last platziert
+  - Bootstrapping
 - Rückwärts-Diode
 - Transistor-Kennlinie
 - Parasitäre Kapazitäten

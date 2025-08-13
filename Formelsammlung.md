@@ -128,8 +128,37 @@ $\tau = R*C$
 - Impedanz $Z = R + jX$
   - $[Z] = [X] = [R] = \Omega$
 
+# Halbleiter
 
+## Diodenarten
+"Normale" Si-Schaltdiode:
+- Vorwärtsspannung 0.6-1.2V, meistens 0.7V
+- Rückwärtsspannung meist über 400V
 
+"Kleine" LED:
+- Vorwärtsspannung von Farbe abhängig (1.8-3.5V)
+- Vorwärtsstrom meist 20mA für maximale Helligkeit ohne Überlastung
+- Rückwärtsspannung gering
+- Rückwärtsstrom abhängig von Beleuchtungsstärke
 
+PIN-Diode:
+- Vorwärtsspannung minimal höher als Schaltdiode
+- Rückwärtsspannung höher als Si-Schaltdioden
+- Deutlich langsamer als Schaltdiode
 
+Shottky-Diode:
+- Vorwärtsspannung sehr gering
+- Rückwärtsspannung deutlich geringer, teilweise nur 20-30V
+- Sehr schnell
+
+Zener-Diode / Lawinen-Diode:
+- Vorwärtsspannung sehr gering
+- Rückwärtsspannung stark vom Bauteil abhängig
+- Rückwärts-Durchbruch zerstört die Diode nicht
+- Schnell
+
+Diac:
+- Symmetrischer Aufbau, Vorwärts-Verhalten ist gleich dem Rückwärts-Verhalten
+- Vorwärtsspannung meist mehrere 10V, meist 30-40V
+- Einschaltspannung ist höher als Ausschaltspannung (Hysterese)
 
