@@ -140,12 +140,15 @@ Antworten des Fragebogens besprechen
   - N-Kanal, P-Kanal
 - N-Kanal vor die Last platziert
   - Bootstrapping
+- *Einheit 6*
 - Rückwärts-Diode
 - Transistor-Kennlinie
+  - Transistoren auf LCSC raussuchen (IRF3205PBF)
 - Parasitäre Kapazitäten
   - Miller-Effekt
   - Überschwingen am Gate
   - Gate-Treiber
+- Übung 5.2
 
 #### BJT
 - Ersatzschaltung (zwei Dioden)
@@ -173,6 +176,7 @@ Antworten des Fragebogens besprechen
 - Flip-Flop Schaltung
 - Klasse-A-Verstärker
 - Klasse-B-Verstärker
+- Verpolungsschutz mit P-Kanal FET
 
 ## 7. Operationsverstärker
 - Grundlegende Funktion

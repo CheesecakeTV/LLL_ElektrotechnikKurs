@@ -14,3 +14,18 @@
    3. Die meisten Schaltdioden haben eine Vorwärtsspannung von 0.7V. Wie könnte man trotzdem eine höhere Vorwärtsspannung erzeugen?
    4. Welches Problem könnte entstehen, wenn die (reale) Diode zu langsam ist?
 
+## 2. MOSFET
+
+Alle Transistoren in dieser Übung sind N-Kanal MOSFETs.
+
+1. Ein ETechnik-Anfänger nutzt ein MOSFET (Treshold-Spannung $3V$, Kanalwiderstand gering), um seine Zimmerlampe ein- und auszuschalten:\
+![](../assets/images/2025-08-20-11-03-04.png)\
+Wieso funktioniert diese Schaltung nicht?
+2. Gegeben ist folgende Schaltung, mit welcher eine Lampe ein- und ausgeschaltet werden kann:\
+![](../assets/images/2025-08-20-10-53-09.png)\
+Die MOSFETs sind **real** (nicht ideal). Der rechte MOSFET hat eine Treshold-Spannung von $5V$, der Linke $1.3V$.
+Der linke Umschalter ist der Ausgang eines Mikrocontrollers, welcher entweder 0V, oder 1V ausgeben kann.\
+Wieso benötigt die Schaltung 2 MOSFETs? Man könnte den Ausgang des uC ja auch direkt mit dem rechten MOSFET verbinden, oder?
+3. Gegeben ist folgende Schaltung:\
+![](../assets/images/2025-08-17-19-05-04.png)\
+Der MOSFET hat eine Treshold-Spannung von $4V$, die Diode ist eine Zener-Diode mit $10V$ Rückwärtsspannung. Bestimme an jedem der 4 Knoten das Potential.

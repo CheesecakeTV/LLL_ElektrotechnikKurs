@@ -162,3 +162,46 @@ Diac:
 - Vorwärtsspannung meist mehrere 10V, meist 30-40V
 - Einschaltspannung ist höher als Ausschaltspannung (Hysterese)
 
+## MOSFET
+N-Kanal | P-Kanal:\
+![](assets/images/2025-08-20-11-11-07.png)
+![](assets/images/2025-08-20-11-11-37.png)
+
+- D = "Drain" ("Abfluss, hier fließt der Strom rein")
+- G = "Gate"
+- S = "Source" ("Quelle, hier kommt der Strom raus")
+- N-Kanal: Leitfähig von D nach S, wenn Gate-Source-Spannung $U_{GS}$ die Tresholdspannung $U_{TH}$ überschreitet
+- P-Kanal: Leitfähig von D nach S, wenn Source-Gate-Spannung $U_{SG}$ die Tresholdspannung $U_{TH}$ überschreitet
+- MOSFETs haben eine Rückwärtsdiode (Typ PIN-Diode) von S nach D
+- $I_{DS}$ wird durch $U_{GS}$ begrenzt
+
+## BJT
+![](assets/images/2025-08-20-11-21-44.png)
+
+- C = "Collector"
+- B = "Base" = "Basis"
+- E = "Emitter" ("Immer am Pfeil")
+- (N-Kanal) $I_{CE(Max)} = h I_{BE}$
+  - h = Verstärkungsfaktor
+  - Basisstrom fließt immer entlang des Pfeils
+- Der Pfeil entspricht einer Diode mit meist 0.7V Vorwärtsspannung
+
+## Thyristor
+![](assets/images/2025-08-20-11-31-26.png)
+
+- Schaltet ein, wenn $I_{GC}$ einen gewissen Wert überschreitet
+- Schaltet aus, wenn $I_{AC}$ einen gewissen Wert unterschreitet
+
+## IGBT
+![](assets/images/2025-08-20-11-35-05.png)
+
+- C = "Collector"
+- G = "Gate"
+- E = "Emitter"
+- Mischung aus BJT und MOSFET 
+- Gibts eigentlich nur als N-Kanal
+- Leitfähig von C nach E, wenn Gate-Emitter-Spannung $U_{GE}$ die Tresholdspannung $U_{TH}$ überschreitet
+- KEINE Rückwärtsdiode
+
+
+
