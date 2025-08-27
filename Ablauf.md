@@ -149,11 +149,13 @@ Antworten des Fragebogens besprechen
   - Überschwingen am Gate
   - Gate-Treiber
 - Übung 5.2
+- *Einheit 7*
 
 #### BJT
 - Ersatzschaltung (zwei Dioden)
 - Transistor-Kennlinie
   - Verstärkungsfaktor h
+- Optokoppler
 
 #### Thyristoren
 - Ersatzschaltung (FlipFlop)
@@ -168,15 +170,17 @@ Antworten des Fragebogens besprechen
 
 ## 6. Grundlegende Halbleiterschaltungen
 - Gleichrichter
-- Invertierer
+- Logik-Invertierer
+- H-Brücke
 - Darlington-Transistor
-  - Sziklav-Paar (Rechtschreibung könnte abweichen)
+  - Sziklai-Paar
 - Stromspiegel
+  - Verbesserung der Genauigkeit
+- Verpolungsschutz mit FET
 - Linearer Spannungswandler
 - Flip-Flop Schaltung
 - Klasse-A-Verstärker
-- Klasse-B-Verstärker
-- Verpolungsschutz mit P-Kanal FET
+- Timer
 
 ## 7. Operationsverstärker
 - Grundlegende Funktion
