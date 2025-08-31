@@ -170,17 +170,17 @@ Antworten des Fragebogens besprechen
 
 ## 6. Grundlegende Halbleiterschaltungen
 - Gleichrichter
-- Logik-Invertierer
-- H-Brücke
 - Darlington-Transistor
   - Sziklai-Paar
 - Stromspiegel
   - Verbesserung der Genauigkeit
-- Verpolungsschutz mit FET
+- *Einheit 8*
+- Einschaltverzögerung
+  - Ausschaltverzögerung als Übung
+- Logik-Invertierer
 - Linearer Spannungswandler
-- Flip-Flop Schaltung
-- Klasse-A-Verstärker
-- Timer
+- H-Brücke
+- Verpolungsschutz mit FET
 
 ## 7. Operationsverstärker
 - Grundlegende Funktion
