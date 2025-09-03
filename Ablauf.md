@@ -205,5 +205,39 @@ Mit Gegenkopplung
 - Differenzierer
 - Präzisions-Halbwellen-Gleichrichter
 
+### 555-Timer-Schaltungen
+- Grundfunktion des 555-Timers
+- Astabiler Multivibrator (Grundfunktion)
+  - Problem mit Asymetrie
+- Symetrischer atabiler Multivibrator
+  - PWM-Generator
+- Monostabile Kippstufe
+- Varianten des IC: TS555, LMC555, XL7555
 
-
+## 8. Mikrokontroller
+- Unterschied Datenblatt und technische Referenz (Handbuch)
+- Register im Allgemeinen
+- Projekt in STM32-Cube anlegen
+- Clocks
+  - Lesen bei positiver Flanke, Ausgabe bei negativer Flanke
+- Interrupts
+- HAL
+- GPIO
+  - Pull-Up, Pull-Down
+  - Open-Drain-Modus
+- Timer
+  - PWM erzeugen
+- A/D-Wandler
+  - Kanal-Multiplexen
+- Kommunikation
+  - UART (USART)
+    - Schnittstelle: RS485
+  - I²C
+  - SPI
+- DMA
+- Low-Power-Modes
+- EEPROM
+- Flash-Speicher
+- CRC
+- RTC
+- RTO
