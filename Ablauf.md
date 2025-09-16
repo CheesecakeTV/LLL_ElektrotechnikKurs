@@ -185,25 +185,32 @@ Antworten des Fragebogens besprechen
 ## 7. Operationsverstärker
 - Grundlegende Funktion
   - Realer Operationsverstärker
-- Mittkopplung, Rückkopplung
-- Virtuelle Masse
-  - Offset-Spannung
-  - Berechnung rückgekoppelter Schaltungen
 
-### OpV-Schaltungen
-Ohne Gegenkopplung
+### Schaltungen ohne Gegenkopplung
 - Schmitt-Trigger
 - ST-Oszillator
   - PWM-Oszillator
-- Monostabiler Multivibrator
+- *Einheit 9*
 
-Mit Gegenkopplung
+### Schaltungen mit Gegenkopplung
+- Mittkopplung, Gegenkopplung
+
+#### Nicht-invertierend
 - Spannungsfolger
+- N. inv. Verstärker
+  - (kurz ansprechen) Filter
+- Präzisions-Halbwellen-Gleichrichter
+- Übung 7.1
+
+#### Invertierend
+- Herleiten derartiger Schaltungen
+  - Offset-Spannung
 - Addierer
 - Subtrahierer
 - Integrierer
 - Differenzierer
-- Präzisions-Halbwellen-Gleichrichter
+- Nicht-ideale OpV
+- Übung 7.2
 
 ### 555-Timer-Schaltungen
 - Grundfunktion des 555-Timers

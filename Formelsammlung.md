@@ -203,5 +203,31 @@ N-Kanal | P-Kanal:\
 - Leitfähig von C nach E, wenn Gate-Emitter-Spannung $U_{GE}$ die Tresholdspannung $U_{TH}$ überschreitet
 - KEINE Rückwärtsdiode
 
+# Operationsverstärker
+Indizien für den Betriebsmodus. Der Reihe nach prüfen, bis eins zutrifft:
+1. Es gibt keine Rückkopplung? >> Vergleicher
+2. Die Rückkopplung ist verzögert, oder es gibt mehrere Rückkopplungen? >> Vermutlich Blinker o.Ä.
+3. Die Rückkopplung "verstärkt" das Ausgangssignal? >> Mitkopplung
+4. Die Rückkopplung beeinflusst nur das Potential an `+`? >> Vermutlich nicht invertierende Gegenkopplung
+5. `+` liegt auf festem Potential? >> Vermutlich invertierende Gegenkopplung
 
+## Regeln nach Betriebsart
+Mit `+` und `-` sind die Potentiale am nicht-invertierenden und invertierenden Eingang gemeint.
+
+Als Versorgungsspannung erhält der OpV $U_H$ (high) und $U_L$ (low).
+
+Hier werden nur Regeln für IDEALE OpV gelistet.
+
+### Vergleicher
+- Ist `+` > `-`, wird das $U_H$ ausgegeben
+- Ist `+` < `-`, wird das $U_L$ ausgegeben
+- Das Ausgangssignal kann nur $U_H$, oder $U_L$ sein
+
+### Mittkopplung
+- Das Ausgangssignal "verstärkt sich selbst"
+- Das Ausgangssignal kann nur $U_H$, oder $U_L$ sein
+
+### Gegenkopplung
+- Das Ausgangssignal "wirkt sich selbst entgegen"
+- WICHTIGSTE REGEL: Das Ausgangssignal wird vom OpV so eingestellt, dass `+` = `-`
 
