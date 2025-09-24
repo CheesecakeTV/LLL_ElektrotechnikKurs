@@ -210,12 +210,14 @@ Antworten des Fragebogens besprechen
 - Integrierer
 - Differenzierer
 - Nicht-ideale OpV
-- Übung 7.2
+- *Einheit 10*
+- Übung 7.2, als Beispiel zeigen
 
 ### 555-Timer-Schaltungen
 - Grundfunktion des 555-Timers
+  - https://dwma4bz18k1bd.cloudfront.net/tutorials/_1200x630_crop_center-center_82_none/555-timer-tutorials-thumbnail.png?mtime=1715167497
 - Astabiler Multivibrator (Grundfunktion)
-  - Problem mit Asymetrie
+  - Problem mit Asymmetrie
 - Symetrischer atabiler Multivibrator
   - PWM-Generator
 - Monostabile Kippstufe
