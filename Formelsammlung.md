@@ -6,8 +6,7 @@
   - (Praxisrelevanter) Ist zusätzlich $a(t_1) = 0$, gilt $\frac{da(t)}{dt} = \frac{a(t)}{t}$
 
 ## Komplexe Zahlen
-
-### Katesisch
+### Kartesisch
 $z = x + jy$
 - $x = Re\{z\}, y = Im\{z\}$
 - Imaginäre Einheit $j² = -1$
@@ -31,7 +30,7 @@ $z = r e^{j \varphi}, w = R e ^{j \psi}$
 - $arg\{z\} = \begin{cases}
   \pi, y = 0 \text{ und } x < 0\\
   2 * arctan \frac{y}{|z| + x}, sonst
-\end{cases} = arctan2(x,y)$
+\end{cases} = arctan2(y,x)$
   - In der Praxis ist diese Umwandlung nicht nötig. Falls doch, einfach mit normaler Trigonometrie arbeiten
 
 - $x = r*cos(\varphi)$

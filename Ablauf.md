@@ -92,6 +92,7 @@ Antworten des Fragebogens besprechen
 - 1/j = -j
 - Division durch Erweitern mit komplex Konjugiertem
 - Betrag
+- Wurzeln aus negativen Zahlen
 
 #### Polardarstellung
 - Betrag, Winkel
