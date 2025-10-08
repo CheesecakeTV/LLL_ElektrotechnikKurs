@@ -27,10 +27,7 @@ $z = r e^{j \varphi}, w = R e ^{j \psi}$
   - "Betrag dividieren, Winkel subtrahieren"
 
 ### Umwandlung
-- $arg\{z\} = \begin{cases}
-  \pi, y = 0 \text{ und } x < 0\\
-  2 * arctan \frac{y}{|z| + x}, sonst
-\end{cases} = arctan2(y,x)$
+- $arg\{z\} = \begin{cases} \pi, y = 0 \text{ und } x < 0\\ 2 * arctan \frac{y}{|z| + x}, sonst \end{cases} = arctan2(y,x)$
   - In der Praxis ist diese Umwandlung nicht nötig. Falls doch, einfach mit normaler Trigonometrie arbeiten
 
 - $x = r*cos(\varphi)$
