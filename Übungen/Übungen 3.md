@@ -3,17 +3,20 @@
 $z = x + jy, w = a + jb$
 $z = r e^{j \varphi}, w = R e ^{j \psi}$
 
-## 1. Verständnis komplexer Zahlen
-Forme die folgenden Ausdrücke sinnvoll um.
-Findest du keinen Ansatz, überspringe den jeweiligen Teil.
-
-Tipp: Du muss bei einigen Teilen polare und kartesische Darstellung vermischen.
+## 1. Verständnis kartesischer Darstellung
+Forme die folgenden Ausdrücke sinnvoll um, indem du $z = x + jy$ als Darstellungsform nutzt.
 
 1. $z + \overline{z}$
 2. $z - \overline{z}$
 3. $z \overline{z}$
-4. $r(e^{j\varphi} + \frac{1}{e^{j \varphi}})$
-5. $re^{j(\varphi + \pi)}$
-6. $jz$
-7. $z^n, n \in \N$
-8. $e ^ z$
+4. $iz$
+
+## 2. Verständnis polarer Darstellung
+Forme die folgenden Ausdrücke sinnvoll um.
+
+1. $iz$
+2. $r(e^{i\varphi} + \frac{1}{e^{i \varphi}})$
+3. $re^{i(\varphi + \pi)}$
+4. $z^n, n \in \N$
+5. $e ^ z$
+6. $z \overline{z}$

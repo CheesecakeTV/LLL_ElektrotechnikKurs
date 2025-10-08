@@ -90,6 +90,7 @@ Antworten des Fragebogens besprechen
 - Imaginäre Einheit j
 - Addition, Subtraktion
 - 1/j = -j
+- Division durch Erweitern mit komplex Konjugiertem
 - Betrag
 
 #### Polardarstellung
@@ -97,7 +98,7 @@ Antworten des Fragebogens besprechen
   - Euler-Schreibweise
   - Winkel-Schreibweise
 - Multiplikation, Division
-- Umrechnen in Katesische Darstellung
+- Umrechnen in kartesische Darstellung
 
 ## 4. Komplexe Wechselstromrechnung und passive Filter (Vorerst übersprungen)
 ### Impedanznetze
