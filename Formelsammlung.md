@@ -116,18 +116,27 @@ $\tau = R*C$
   - Es gelten die gleichen Umformungen wie bei der parallelschaltung von Widerständen
 
 # Komplexe Wechselstromrechnung
-- Ohmsches Gesetz: $U = R * Z$
-- Scheinleistung $S = P + jQ = U * I^* = Z*I^2 = \frac{U²}{Z^*}$
+- Die Formeln gelten nur, wenn alle Quellen die gleiche Frequenz $f$ haben!
+- Alle Beträge sind i.d.R. Effektivwerte.
+- Kreisfrequenz $\omega = 2 \pi f$
+- Komplexe Spannung, ausgeschrieben: $U = |U| e^{j \omega t} e^{j \varphi}$
+  - Komplexer Drehzeiger (Spannung): $U = |U| e^{j*\varphi}$
+  - Funktioniert für Strom und Leistung genauso
+- Ohmsches Gesetz: $U = Z I$
+- Scheinleistung $S = P + jQ = U \overline{I} = Z |I|^2 = \frac{|U|²}{\overline{Z}}$
   - $[S] = VA (=Watt)$
-  - Wirkleistung $[P] = W = Watt$
-  - Blindleistung $[Q] = VAr (= Watt)$
+  - Wirkleistung $P = Re\{S\}$, $[P] = W = Watt$
+  - Blindleistung $Q = Im\{S\}$, $[Q] = VAr (= Watt)$
   - Leistungsfaktor $cos(\varphi) = cos(arg\{S\}) = \frac{P}{S}$
     - (Wird im Handwerk gerne verwendet)
 - Impedanz $Z = R + jX$
+  - R = Wirkwiderstand, oder Ohm'scher Widerstand
+  - X = Blindwiderstand, oder Reaktanz
   - $[Z] = [X] = [R] = \Omega$
+- Impedanz Kapazität: $Z_L = \frac{1}{j \omega C} = -j \frac{1}{\omega C}$
+- Impedanz Induktivität: $Z_L = j \omega L$
 
 # Halbleiter
-
 ## Diodenarten
 "Normale" Si-Schaltdiode:
 - Vorwärtsspannung 0.6-1.2V, meistens 0.7V

@@ -107,6 +107,7 @@ Antworten des Fragebogens besprechen
   - Frequenz weglassen, wenn alle Frequenzen gleich sind
 - Blindwiderstand
 - Impedanz
+- Berechnung von Impedanznetzen
 - Scheinleistung, Blindleistung, Wirkleistung
   - Leistungsfaktor
 - Übung 4.1
