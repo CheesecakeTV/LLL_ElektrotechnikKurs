@@ -103,11 +103,12 @@ Antworten des Fragebogens besprechen
 
 ## 4. Komplexe Wechselstromrechnung und passive Filter (Vorerst übersprungen)
 ### Impedanznetze
+- Zusammenschluss zweier Wechselspannungen
 - Komplexe Drehzeiger
   - Frequenz weglassen, wenn alle Frequenzen gleich sind
 - Blindwiderstand
 - Impedanz
-- Berechnung von Impedanznetzen
+- Berechnen von Impedanznetzen
 - Scheinleistung, Blindleistung, Wirkleistung
   - Leistungsfaktor
 - Übung 4.1
