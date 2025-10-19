@@ -30,8 +30,9 @@ Tipp: Das ist keine Fangfrage, mindestens ein Wert ändert sich.
 
 ## 2. Passive Filter
 
-1. Bestimme die Impedanz eines Serienschwingkreises (Induktivität und Kapazität in Reihe geschaltet) in Abhängigkeit von $\omega$.
-2. Bestimme die Impedanz eines Parallelschwingkrieses (Induktivität und Kapazität parallel) in Abhängigkeit von $\omega$.
-3. Nutze deine Erkentnisse, um zwei verschiedene Arten von Bandpass (Lässt eine Frequenz/ein Frequenzband besonders gut durch) zu konstruieren.
-4. Konstruiere zwei verschiedene Arten von Bandsperre (Lässt nur eine Frequenz/ein Frequenzband nicht durch, sonst alles).
+Stelle Vermutungen über den Frequenzgang folgendes Filters auf:\
+![](../assets/images/2025-10-19-17-07-33.png)
+
+Die unteren Widerstände sind nur da, um den Simulator zu beruhigen. 
+Du kannst sie ignorieren.
 

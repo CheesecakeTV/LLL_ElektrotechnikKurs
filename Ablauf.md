@@ -114,7 +114,16 @@ Antworten des Fragebogens besprechen
 - Übung 4.1
 
 ### Filter
-
+- Wiederholung Spannungsteiler
+- Frequenz bei AC-Rechnung variable lassen
+- Übertragungsfunktion
+  - Frequenzgang
+  - Kurz mal dB anschneiden
+- Impedanz-Verlauf von Kondensator/Spule
+- Arten von passiven Filtern 1. Ordnung
+- Impedanz(-Verlauf) von Schwingkreisen
+- Bandpass, Bandsperre
+- Übung 4.2
 
 ## 5. Halbleiter
 - Allgemeine Anforderungen an Schalter (Strom, Spannung, R_on, Geschwindigkeit)
