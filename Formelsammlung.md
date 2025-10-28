@@ -238,3 +238,20 @@ Hier werden nur Regeln für IDEALE OpV gelistet.
 - Das Ausgangssignal "wirkt sich selbst entgegen"
 - WICHTIGSTE REGEL: Das Ausgangssignal wird vom OpV so eingestellt, dass `+` = `-`
 
+# Systemtheorie
+## Decibel
+Große Buchstaben sind in dB
+- $lg = \log{10}$
+- $A = 10lg(a)$
+  - $A[dB] = A[dBm] - 30$
+- $a = 10^{\frac{A}{10}}$
+- $c = a*b$, $C = A + B$
+- $c = \frac{a}{b}$, $C = A - B$
+- Faustregeln zur Umrechnung:
+  - $a * 2 => A + 3dB$
+  - $a * 10 => A + 10dB$
+  - $a² => A * 2$
+- Für Spannungen: 
+  - $U = 10lg(u²)=20lg(u)$
+  - $u = 10^{\frac{U}{20}}$
+
