@@ -279,14 +279,14 @@ Antworten des Fragebogens besprechen
 - Übung 9.1
 
 ## 10. Aufstellen von DGL und Grundlagen der Systemtheorie
-- Beispiel am Pendel
-- Beispiel: Laden eines Kondensators
+- DGL Aufstellen: Laden eines Kondensators
 - Übung 10.1
 - Dirac-Impuls
 - Impulsantwort
 - Faltung
 
 ## 11. Fourier-Transformation
+- Korrespondenzen: https://user.fablab.fau.de/~ev80uhys/sisy1/sisy1-2.pdf
 - Diverse Fourier-Korrespondenzen
 - Lösung von DGL mit Fourier-Trafo
 - Faltung zweier Funktionen

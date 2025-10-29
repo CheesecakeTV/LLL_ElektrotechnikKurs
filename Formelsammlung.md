@@ -239,7 +239,7 @@ Hier werden nur Regeln für IDEALE OpV gelistet.
 - WICHTIGSTE REGEL: Das Ausgangssignal wird vom OpV so eingestellt, dass `+` = `-`
 
 # Systemtheorie
-## Decibel
+## Dezibel
 Große Buchstaben sind in dB
 - $lg = \log{10}$
 - $A = 10lg(a)$
