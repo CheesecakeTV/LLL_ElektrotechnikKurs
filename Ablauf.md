@@ -281,13 +281,19 @@ Antworten des Fragebogens besprechen
 ## 10. Aufstellen von DGL und Grundlagen der Systemtheorie
 - DGL Aufstellen: Laden eines Kondensators
 - Übung 10.1
+- *Einheit 17*
+- Systemeigenschaften: Linearität, Zeitinvarianz
 - Dirac-Impuls
-- Impulsantwort
 - Faltung
+  - Dirac-Impuls als neutrales Element
+  - Übung 10.2
+- Impulsantwort
 
 ## 11. Fourier-Transformation
 - Korrespondenzen: https://user.fablab.fau.de/~ev80uhys/sisy1/sisy1-2.pdf
 - Diverse Fourier-Korrespondenzen
+  - Faltung
+  - Ableitung, Integration, Multiplikation
 - Lösung von DGL mit Fourier-Trafo
 - Faltung zweier Funktionen
 - Sin, cos und Phase
