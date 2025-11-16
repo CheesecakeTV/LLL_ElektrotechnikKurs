@@ -289,14 +289,24 @@ Antworten des Fragebogens besprechen
   - Übung 10.2
 - Impulsantwort
 
-## 11. Fourier-Transformation
+## 11. Laplace-Transformation
+- Partialbruchzerlegung
 - Korrespondenzen: https://user.fablab.fau.de/~ev80uhys/sisy1/sisy1-2.pdf
+- Linksseitigkeit
+- Laplace-Korrespondenzen
+  - Faltung
+  - Differenzieren, Integrieren
+  - Verschiebung
+- Übung 11.1
+
+## 12. Fourier-Transformation
 - Diverse Fourier-Korrespondenzen
   - Faltung
+    - Übertragungsfunktion -> Sprungantwort
   - Ableitung, Integration, Multiplikation
 - Lösung von DGL mit Fourier-Trafo
-- Faltung zweier Funktionen
 - Sin, cos und Phase
+- Übertragungsfunktion passiver Filter
 
 
 
