@@ -291,8 +291,10 @@ Antworten des Fragebogens besprechen
 
 ## 11. Laplace-Transformation
 - Partialbruchzerlegung
+- Kurze Übung dazu ausdenken
+  - Mit nicht-faktorisiertem Nenner
 - Korrespondenzen: https://user.fablab.fau.de/~ev80uhys/sisy1/sisy1-2.pdf
-- Linksseitigkeit
+- Rechtsseitigkeit
 - Laplace-Korrespondenzen
   - Faltung
   - Differenzieren, Integrieren
