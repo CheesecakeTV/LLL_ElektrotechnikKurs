@@ -300,15 +300,30 @@ Antworten des Fragebogens besprechen
   - Differenzieren, Integrieren
   - Verschiebung
 - Übung 11.1
+- Das von letzter Woche nochmal mit PBZ lösen
 
 ## 12. Fourier-Transformation
+- Fourier-Reihe anschneiden
+- "Spektrum" (Betrag)
 - Diverse Fourier-Korrespondenzen
   - Faltung
-    - Übertragungsfunktion -> Sprungantwort
   - Ableitung, Integration, Multiplikation
-- Lösung von DGL mit Fourier-Trafo
 - Sin, cos und Phase
-- Übertragungsfunktion passiver Filter
+- FFT ansprechen
 
+# Nachrichtentechnik
+## 13. Grundlegende Modulation
+- Multiplikation mit Cosinus
+- AM
+  - Schwebung
+- RSM
+- Probleme und Lösungen bei AM-Schaltungen
+
+## Digitaltechnik
+- Abtasten (Abtasttheorem)
+- Alias
+- Impulsformung
+  - Bandbreite
+- IQ-Modulation
 
 
