@@ -320,10 +320,15 @@ Antworten des Fragebogens besprechen
 - Probleme und Lösungen bei AM-Schaltungen
 
 ## Digitaltechnik
+- Schematischer Aufbau eines digitalen Übertragungssystems
 - Abtasten (Abtasttheorem)
 - Alias
+- Bandbreite
+  - Multiplexing
 - Impulsformung
-  - Bandbreite
+  - Matched Filter
 - IQ-Modulation
-
+- ASK
+- PSK
+- QAM
 

@@ -1,7 +1,8 @@
 # LLL_ElektrotechnikKurs
+Elektrotechnik-Kurs für Anfänger.
 
-Elektrotechnik-Kurs für Anfänger, jeden Mittwoch um 20:00 Uhr auf LLL.
-
+Der Kurs ist beendet. 
+Die Materialien Bleiben weiterhin hier zur Verfügung.
 
 ## Dieser Kurs richtet sich besonders an...
 - Selbstverständlich erstmal jeden, der sich für Elektrotechnik interessiert
